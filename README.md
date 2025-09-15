@@ -23,6 +23,16 @@ By testing models on **100+ simulated and real-world datasets**, the framework i
 
 ---
 
+## 📸 UseCase Preview  
+
+![UseCase](https://github.com/nikitamajalikar/Data-Driven-Risk-Analysis-Using-Machine-Learning-/blob/main/images/usecase.jpg)
+
+## 📸 Example Case1 Preview  
+
+![Case1](https://github.com/nikitamajalikar/Data-Driven-Risk-Analysis-Using-Machine-Learning-/blob/main/images/scene1.jpg)
+
+---
+
 ## 🛠️ Tech Stack  
 - **Languages**: Python  
 - **Libraries**: NumPy, Pandas, scikit-learn, Matplotlib, Seaborn  
